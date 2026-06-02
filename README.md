@@ -1,4 +1,4 @@
 # renukanwar-demo
 This is my First Git Repository
 <br>
-Author - Renu kanwar
+Author - Renu Kanwar Shekhawat
